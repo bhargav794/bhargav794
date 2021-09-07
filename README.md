@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **[React.js](https://reactjs.org/)**
 
-- 👻 I'm constantly looking for open source projects to contribute to
+- 👻 I'm constantly looking for **open source** projects to contribute
 
 - 🤔 I’m looking for help with ...**Understanding and implementing data structures and algorithms.**
 
@@ -20,7 +20,7 @@
 
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sajalgupta20/)**
 
-- ⚡ Fun fact: *if you're not having fun you're not doing it right.*
+- ⚡ Fun fact: *If you're not having fun you're not doing it right.*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav794&label=Profile%20views&color=0e75b6&style=flat-square" alt="bhargav794" width="150px"> </p>
 <hr>
